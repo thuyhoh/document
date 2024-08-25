@@ -1,0 +1,10 @@
+anten
+điện tử 
+cấu trúc máy tính 
+hệ điều hành
+
+
+SPI:
+ - giao tiếp kiểu master-slave
+ - 1 master giao tiếp với nhiều slave
+ - master kết nối với slave thông qua 4 dây
