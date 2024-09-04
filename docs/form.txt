@@ -1,0 +1,17 @@
+Mô tả hàm
+/****************************************************************************
+ * @fn	  			- the name of function
+
+ * @brief  			- <mo ta chuc nang ham>
+
+ * @param[]  			- tham so 1 
+ * @param[]  			- 2
+ * @param[]  			- 3
+
+ * @return 			- gia tri tra ve
+
+ * @note	  		- ghi chu them
+ */
+
+Mô tả biến / các tham số
+/* <! note @ref > */

@@ -1,0 +1,21 @@
+1-1.5 month kit stm32f4-nolib
+test lib
+gpio
+lcd 8bit 4bit
+
+usart
+usb - ttl(c#)
+esp32s01 - blink (html-css)
+
+spi
+oled hello world! stopwatch
+rfid - blink
+nrf - blink	
+
+i2c
+oled
+rtc-eeprom
+
+-> write report for each project
+
+mcu2 

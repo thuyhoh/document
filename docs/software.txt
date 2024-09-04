@@ -1,0 +1,11 @@
+stm32ide mx
+keil c
+visual studio code
+visual studio
+proteus
+altilium
+logic analyzer
+git
+hterm
+cmake
+python
